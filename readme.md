@@ -4,4 +4,4 @@ A simple MERN demo.
 
 # Usage
 
-`npm run server` to start app
+`npm run server` to start backend
