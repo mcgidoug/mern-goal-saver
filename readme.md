@@ -1,4 +1,4 @@
-# MERN Demo
+# MERN Goal Saver
 
 A simple MERN demo with backend framework for future usage.
 
